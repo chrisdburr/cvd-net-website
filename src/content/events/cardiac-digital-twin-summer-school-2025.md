@@ -35,7 +35,7 @@ Applications will be reviewed by the CVDNet team and expectations about experien
 
 Bringing together international-level experts in their fields, the programme consists of a series of workshops mixing lectures and hands-on sessions covering a wide range of topics. More details are being confirmed in due course.
 
-To be the first to receive updates on the programme and other details, [sign up to our mailing list here](https://forms.office.com/e/sSR6HVPfy4). If you have questions about the activity, check our FAQ below and if you cannot find an answer, write to our inbox [caditss@turing.ac.uk](mailto:caditss@turing.ac.uk). The Summer School is free to attend, but places are limited and will be offered based on a simplified application process.
+To be the first to receive updates on the programme and other details, [sign up to our mailing list here](https://forms.office.com/e/sSR6HVPfy4). If you have questions about the activity, check our FAQ below and if you cannot find an answer, write to our inbox [m.khanum@ic.ac.uk](mailto:m.khanum@ic.ac.uk). The Summer School is free to attend, but places are limited and will be offered based on a simplified application process.
 
 Participants must bring their own laptops to all sessions to be able to participate in the practical sessions. More information about other potential requirements, such as the installation of software that may need to be done in advance will be shared with confirmed participants ahead of the event.
 
@@ -120,7 +120,7 @@ _More information to be confirmed soon_
 
 ## FAQ
 
-- **Can anyone attend the programme?** The programme is designed for MSc, PhD students and early career researchers with an interest in cardiac digital twins. Sessions do not presume that participants will have experience in the particular topics covered. If you have questions about whether they will be suitable for your experience, write to our inbox [caditss@turing.ac.uk](mailto:caditss@turing.ac.uk)
+- **Can anyone attend the programme?** The programme is designed for MSc, PhD students and early career researchers with an interest in cardiac digital twins. Sessions do not presume that participants will have experience in the particular topics covered. If you have questions about whether they will be suitable for your experience, write to our inbox [m.khanum@ic.ac.uk](mailto:m.khanum@ic.ac.uk)
 - **Is there a fee to attend?** No. The Cardiac Digital Twin Summer School is free to attend but places are limited and will be offered via a simplified application process.
 - **Can I attend online?** Unfortunately, due to the nature of the sessions, attendance is only possible in-person.
 - **Can I attend only a few selected sessions?** CaDiTSS is designed for participants to attend it in full, and it is expected that participants will participate in all sessions. The objective is to provide training that enables participants to engage in cardiac digital twins research effectively. By attending all sessions, participants will gain insight into multiple and crucial issues for the advancement of this field.

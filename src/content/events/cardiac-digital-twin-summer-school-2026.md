@@ -8,6 +8,8 @@ type: "event"
 description: "A week-long intensive summer school focused on the development and application of digital twins in healthcare, covering topics from segmentation to model analysis."
 excerpt: "Join leading experts for a comprehensive training program on cardiac digital twins, designed for MSc/PhD students and Early Career Researchers. Free to attend with limited places available. Applications are now open."
 links:
+  - text: "Apply Now"
+    url: "https://imperial.eu.qualtrics.com/jfe/form/SV_ersi67g79kOXwYm"
   - text: "Sign Up for Updates"
     url: "https://forms.office.com/e/sSR6HVPfy4"
 draft: false
@@ -25,7 +27,7 @@ CaDiTSS is delivered as part of [Networks of Cardiovascular Digital Twins](https
 
 ## Application Process (now open)
 
-Please email [m.khanum@ic.ac.uk](mailto:m.khanum@ic.ac.uk) if you are interested in attending. You will be sent an application form to complete.
+[Submit your CaDiTSS application form here](https://imperial.eu.qualtrics.com/jfe/form/SV_ersi67g79kOXwYm)
 
 Submissions will help us select a diverse group that will be able to make the most of the event and use their learning to advance their research in a range of topics and applications of cardiac digital twin technology. We are looking for candidates who have a real interest in cardiac digital twins and can demonstrate how the summer school can make a difference to their career journey, whether they are an MSc, PhD student, or early-career researcher (see below).
 
@@ -41,20 +43,16 @@ Participants must bring their own laptops to all sessions to be able to particip
 
 |                 | Monday 05/10                                                                         | Tuesday 06/10                                                                                                                    | Wednesday 07/10                                                                                                    | Thursday 08/10                                                                                                                                                  | Friday 09/10                                                                  |
 | --------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| AM 9 \- 12:30   | **Segmentation & Model Fitting** [Wenjia Bai](https://profiles.imperial.ac.uk/w.bai) | **Motion** [Abdul Qayyum](https://www.linkedin.com/in/abdul-qayyum-phd-a5876ab1/)                                                | **Cell Mechanics** [Steven Niederer](https://www.imperial.ac.uk/news/245775/professor-steven-niederer-joins-nhli/) | **Electrophysiology Simulator** [Martin Bishop](https://www.kcl.ac.uk/people/martin-bishop), [Fernando Campos](https://www.kcl.ac.uk/people/dr-fernando-campos) | **Model Analysis** [Caroline Roney](https://www.cpm.qmul.ac.uk/people/croney) |
+| AM 9 \- 12:30   | **Image Analysis & Model Fitting** [Wenjia Bai](https://profiles.imperial.ac.uk/w.bai) | **Motion** [Abdul Qayyum](https://www.linkedin.com/in/abdul-qayyum-phd-a5876ab1/)                                                | **Cell Mechanics** [Steven Niederer](https://www.imperial.ac.uk/news/245775/professor-steven-niederer-joins-nhli/) | **Electrophysiology Simulator** [Martin Bishop](https://www.kcl.ac.uk/people/martin-bishop), [Fernando Campos](https://www.kcl.ac.uk/people/dr-fernando-campos) | **Model Analysis** [Caroline Roney](https://www.cpm.qmul.ac.uk/people/croney) |
 | PM 1:30 \- 5:00 | **Shape** [Pablo Lamata](https://www.kcl.ac.uk/people/pablo-lamata-de-la-orden)      | **Gaussian Process Emulators** [Richard Wilkinson](https://www.nottingham.ac.uk/science/research/take-10/richard-wilkinson.aspx) | **Cellular Electrophysiology** [Gary Mirams](https://www.maths.nottingham.ac.uk/plp/pmzgm/)                        | **Clinical Application** [Steven Williams](https://www.research.ed.ac.uk/en/persons/steven-williams/)                                                           | **Mechanics Model** [Team CEMRG](https://www.cemrg.com/)                      |
 
-### Segmentation and Model Fitting
+### Image Analysis and Model Fitting
 
-**[Wenjia Bai, Associate Professor in Artificial Intelligence in Medicine](https://profiles.imperial.ac.uk/w.bai), Imperial College London**
+**[Wenjia Bai, Reader in Artificial Intelligence in Medicine](https://profiles.imperial.ac.uk/w.bai), Imperial College London**
 
-This session will provide hands-on experience with a pipeline for constructing cardiac biventricular surface meshes from cardiovascular magnetic resonance (CMR) DICOM images. The code used will be available for public download, alongside a test dataset, before the session. Participants will be guided through the following steps:
+**Qiang Ma, Research Associate, Imperial College London**
 
-- Sorting of the DICOM images into cine slices in short and long axis views.
-- Segmentation of the cine slices
-- Fitting a 3D+t model of the left and right ventricles including four valve annuli
-
-Participants are expected to bring their own laptop to run the pipeline. We will run the test case, but you can also bring your own anonymised DICOM datasets for testing.
+This session will provide an overview of recent developments in cardiac image analysis and anatomical shape modelling, with their applications to population data analysis, such as for the UK Biobank. After the lecture, a practical session will provide hands-on experiences in cardiac image analysis and shape modelling, using a public dataset as an example. Participants are expected to bring their own laptops for the practical session.
 
 ### Shape
 
@@ -126,10 +124,11 @@ Further information about OpenEP Research Laboratory is available at: [https://w
 
 ## FAQ
 
-- **Can anyone attend the programme?** The programme is designed for MSc, PhD students and early career researchers with an interest in cardiac digital twins. Sessions do not presume that participants will have experience in the particular topics covered. If you have questions about whether they will be suitable for your experience, write to our inbox [caditss@turing.ac.uk](mailto:caditss@turing.ac.uk)
+- **Can anyone attend the programme?** The programme is designed for MSc, PhD students and early career researchers with an interest in cardiac digital twins. Sessions do not presume that participants will have experience in the particular topics covered. If you have questions about whether they will be suitable for your experience, write to our inbox [m.khanum@ic.ac.uk](mailto:m.khanum@ic.ac.uk)
 - **Is there a fee to attend?** No. The Cardiac Digital Twin Summer School is free to attend but places are limited and will be offered via a simplified application process.
 - **Can I attend online?** Unfortunately, due to the nature of the sessions, attendance is only possible in-person.
 - **Can I attend only a few selected sessions?** CaDiTSS is designed for participants to attend it in full, and it is expected that participants will participate in all sessions. The objective is to provide training that enables participants to engage in cardiac digital twins research effectively. By attending all sessions, participants will gain insight into multiple and crucial issues for the advancement of this field.
 - **Is catering provided?** Yes, lunch will be provided alongside tea and coffee during the sessions. Upon registration you will be asked about any dietary requirements you may have.
 - **Is there any accessibility support available?** We can consider requests for reasonable adjustments. Attendees will be asked about their accessibility requirements following their place offer.
+- **Is there funding for accommodation and travel?** Unfortunately, we cannot provide funding for accommodation and travel for any participants. Please ensure you are able to fund a full week of accommodation or travel (if required) before applying.
 - **What is our definition of an Early Career Researcher?** Early career researchers are usually defined by a number of years from their PhD submission (e.g. 7 years following submission of a PhD thesis). We are not establishing a rigid criteria based on career stage for attendance. This information is only to provide general guidance about the attendee's level of experience the summer school is likely to be relevant for. Anyone, independently of their career stage can apply to attend, but be mindful that it may not be suitable for senior positions like Senior Lecturers or Professors.
