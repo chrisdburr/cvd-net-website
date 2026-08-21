@@ -6,10 +6,8 @@ dateDisplay: "5-9 October 2026"
 location: "The Alan Turing Institute, London"
 type: "event"
 description: "A week-long intensive summer school focused on the development and application of digital twins in healthcare, covering topics from segmentation to model analysis."
-excerpt: "Join leading experts for a comprehensive training program on cardiac digital twins, designed for MSc/PhD students and Early Career Researchers. Free to attend with limited places available. Applications are now open."
+excerpt: "Join leading experts for a comprehensive training program on cardiac digital twins, designed for MSc/PhD students and Early Career Researchers. Free to attend with limited places available. Applications are now closed."
 links:
-  - text: "Apply Now"
-    url: "https://imperial.eu.qualtrics.com/jfe/form/SV_ersi67g79kOXwYm"
   - text: "Sign Up for Updates"
     url: "https://forms.office.com/e/sSR6HVPfy4"
 draft: false
@@ -23,11 +21,11 @@ Open to MSc or PhD students and Early Career Researchers with an interest in car
 
 CaDiTSS is delivered as part of [Networks of Cardiovascular Digital Twins](https://cvd-net.com) (CVD Net). Read more about CVDNet [here](../../pages/about/project-overview.astro)
 
-**Attendance**: In-person only.
+**Attendance**: In-person only. Applications are now closed.
 
-## Application Process (now open)
+## Application Process (now closed)
 
-[Submit your CaDiTSS application form here](https://imperial.eu.qualtrics.com/jfe/form/SV_ersi67g79kOXwYm)
+Applications have now closed.
 
 Submissions will help us select a diverse group that will be able to make the most of the event and use their learning to advance their research in a range of topics and applications of cardiac digital twin technology. We are looking for candidates who have a real interest in cardiac digital twins and can demonstrate how the summer school can make a difference to their career journey, whether they are an MSc, PhD student, or early-career researcher (see below).
 
