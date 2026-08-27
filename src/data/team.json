@@ -308,6 +308,16 @@
 		"section": "Research Team"
 	},
 	{
+		"name": "Adam Keane",
+		"affiliation": "Alan Turing Institute",
+		"position": "Senior Research Associate",
+		"role": "Postdoctoral Researcher",
+		"work_package": 6,
+		"profileURL": "https://www.linkedin.com/in/adam-keane/",
+		"photoUrl": "/images/team/adam-keane.png",
+		"section": "Research Team"
+	},
+	{
 		"name": "Ze Ming Goh",
 		"affiliation": "",
 		"position": "Academic Clinical Fellow in Cardiology",
