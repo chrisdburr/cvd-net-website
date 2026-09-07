@@ -216,6 +216,15 @@
 		"section": "Research Team"
 	},
 	{
+		"name": "David Llewellyn-Jones",
+		"affiliation": "Alan Turing Institute",
+		"position": "Research Software Engineer",
+		"role": "Research Engineering Group",
+		"profileURL": "https://www.turing.ac.uk/people/research-engineering/david-llewellyn-jones",
+		"photoUrl": "/images/team/david-llewellyn-jones.png",
+		"section": "Research Team"
+	},
+	{
 		"name": "Karen de Cesare",
 		"affiliation": "Alan Turing Institute",
 		"position": "Research Project Manager",
